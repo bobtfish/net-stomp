@@ -1,5 +1,7 @@
 Revision history for Perl module Net::Stomp:
 
+  - Added repository metadata to help potentail contbutors to find it.
+
 0.38 Tue Aug 03 13:58:10 BST 2010
   - Fix an issue with IO::Handle buffering interfering with IO::Select. This
     manifested as receive_frame hanging, or as if not all messages would get
